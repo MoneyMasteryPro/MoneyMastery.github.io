@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Money Mastery - Your Name</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            color: #333;
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        header {
+            background-color: #2c3e50;
+            color: #ecf0f1;
+            text-align: center;
+            padding: 1em 0;
+        }
+
+        section {
+            max-width: 800px;
+            margin: 20px auto;
+            padding: 20px;
+            background-color: #fff;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            border-radius: 5px;
+        }
+
+        footer {
+            text-align: center;
+            padding: 1em 0;
+            background-color: #2c3e50;
+            color: #ecf0f1;
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>Money Mastery</h1>
+        <p>Your Name</p>
+    </header>
+
+    <section>
+        <h2>About Me</h2>
+        <p>Welcome to my personal webpage! I am passionate about finance and mastering the art of money. With expertise in the field, I aim to share valuable insights and tips to help you achieve financial success.</p>
+    </section>
+
+    <section>
+        <h2>Areas of Expertise</h2>
+        <p>I specialize in various aspects of finance, including budgeting, investments, and wealth-building strategies. Explore my content to gain a better understanding of how to take control of your financial future.</p>
+    </section>
+
+    <section>
+        <h2>Contact</h2>
+        <p>Feel free to reach out to me via email at your.email@example.com for any inquiries or collaboration opportunities. Let's embark on a journey to financial empowerment together!</p>
+    </section>
+
+    <footer>
+        <p>&copy; 2024 Money Mastery | Designed by Your Name</p>
+    </footer>
+
+</body>
+</html>
